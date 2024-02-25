@@ -111,8 +111,13 @@ This project is designed to be run in Google Colab and Python IDE. After cloning
 5. Run the project in an emulator or on a physical device
 
 ## Architecture
-This is the Data Architecture of the project
-![arc](https://github.com/Project-UniLight/Data-Analysis/assets/95847972/71ddb6fc-3de8-4088-bec9-18050fbe87ec)
+### Software architecture
+![image](https://github.com/hungmeomeo/poscify-mobile/assets/95847972/895abed7-b0dd-485d-a025-50df60d6b629)
+### Operation procedure
+![image](https://github.com/hungmeomeo/poscify-mobile/assets/95847972/03284e75-cf01-48b4-8532-7a27e7d49be7)
+### AI flow
+![image](https://github.com/hungmeomeo/poscify-mobile/assets/95847972/6219dfaa-b0a5-4c09-b630-716ac4f204a2)
+
 
 
 ## License
