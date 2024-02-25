@@ -33,7 +33,7 @@ Beyond analyzing posture, our solution emphasizes human values by involving pare
 ## Video demo
 
 
-Uploading 0225 (2)(2).mp4…
+Uploading 0225(2).mp4…
 
 
 
