@@ -30,6 +30,12 @@ Improving sitting posture contributes to a healthy foundation for children
 Beyond analyzing posture, our solution emphasizes human values by involving parents in guiding posture correction for their children
 
 
+## Video demo
+
+
+
+https://github.com/hungmeomeo/poscify-mobile/assets/95847972/dd9fc763-2851-4951-bb8f-69a480bd2a08
+
 
 
 
@@ -49,7 +55,7 @@ This project was implemented using the following technologies:
 - Kuberflow
 - Python 3
 - React Native
-- Google Cloud API(Comming soon)
+- Google Cloud API, Go(Comming soon)
 
 
 ## Structure
