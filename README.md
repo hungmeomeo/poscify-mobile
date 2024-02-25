@@ -32,8 +32,11 @@ Beyond analyzing posture, our solution emphasizes human values by involving pare
 
 ## Video demo
 
+https://drive.google.com/drive/folders/192E1hDc0UwuKMdJt3oqG_G-a5SgBtdmT
 
-[Uploading 0225(2).mp4…](https://github.com/hungmeomeo/poscify-mobile/assets/95847972/dd9fc763-2851-4951-bb8f-69a480bd2a08)
+
+https://github.com/hungmeomeo/poscify-mobile/assets/95847972/913c05de-6da0-4f41-95b8-70226bb15d2d
+
 
 
 
